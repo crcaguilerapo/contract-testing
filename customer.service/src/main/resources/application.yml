@@ -1,0 +1,5 @@
+server:
+  port: 8081
+
+product-service:
+  base-url: "http://localhot:8080"
